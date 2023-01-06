@@ -37,9 +37,6 @@ A description of the 8 programs can be found below.
     creates the boxplots of the training and testing losses and c-indexes. 
 
 To facilitate running the aforementioned programs, we recommend creating the following directory structure:
-
-Create a parent directory, "Simulations." 
-
-Create the following sub-directories in "Simulations": data, tuner, context_vectors, linReg_mixedEff, fpca, ipcw, lstmNN, results.
-
-In each sub-directory, create the sub-sub-directories: aft, cox.
+   1) Create a parent directory, "Simulations." 
+   2) Create the following sub-directories in "Simulations": data, tuner, context_vectors, linReg_mixedEff, fpca, ipcw, lstmNN, results.
+   3) In each sub-directory, create the sub-sub-directories: aft, cox.
